@@ -1,0 +1,3 @@
+include ':notificationlibrary'
+include ':app'
+rootProject.name = "DemoPushNotification"
